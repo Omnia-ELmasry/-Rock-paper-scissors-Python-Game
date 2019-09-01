@@ -5,3 +5,6 @@ But how to play if your friends are far away?
 For this reason I develop this Game with simple Python 3 Code with only basics to be easy to understand ........
 Hope you will enjoy playing it with friends or with computer as you can choose your mood single or 2 players from 
 the menu in the beginning and you can know your score at the end.
+
+# Requirements to Run :
+* Jupyter Notebook  or use Online Python IDE https://repl.it/languages/python3 .
